@@ -1,2 +1,2 @@
-# PowerShellMC
+# PowerShellBeginners
 Let's Learn Powershell for automation
